@@ -1,0 +1,24 @@
+.idea/
+node_modules*
+data
+uploads
+.bablerc
+/dist/
+webpack.config.js
+.env
+./lib/
+.config.js
+.project
+/build
+public/modules/*/*
+
+# Dprecated files
+_*
+tempview.js
+/tools/git/*.js
+/tools/excel/*.js
+/views/vcs/diffs/diffs.js
+/routs/vcs.js
+
+*.log
+*.log___jb_old___
