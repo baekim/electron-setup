@@ -1,0 +1,24 @@
+{
+  "name": "pythonelectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baekim/pythonElectron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baekim/pythonElectron/issues"
+  },
+  "homepage": "https://github.com/baekim/pythonElectron#readme",
+  "devDependencies": {
+    "electron": "^13.1.5",
+    "electron-builder": "^22.11.7"
+  }
+}
